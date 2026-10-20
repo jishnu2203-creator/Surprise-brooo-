@@ -1,0 +1,6 @@
+{
+  "name": "Shruthiii's Birthday Experience",
+  "description": "An interactive digital birthday experience made for Shruthiii.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
